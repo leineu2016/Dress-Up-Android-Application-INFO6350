@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.northeastern.wardrobeapp.android_wardrobeapp.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_add_clothing"
+        android:title="@string/menu_add_clothing" />
+    <item
+        android:id="@+id/menu_sign_out"
+        android:title="@string/menu_sign_out" />
+</menu>

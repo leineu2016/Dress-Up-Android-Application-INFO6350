@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "416202668150",
+    "firebase_url": "https://wardrobeapp-dcf10.firebaseio.com",
+    "project_id": "wardrobeapp-dcf10",
+    "storage_bucket": "wardrobeapp-dcf10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416202668150:android:0cf7e1444e58d798",
+        "android_client_info": {
+          "package_name": "edu.northeastern.wardrobeapp.android_wardrobeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416202668150-dhl9pdhl8j9feuc4u2ki3fau1hsjg16a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.northeastern.wardrobeapp.android_wardrobeapp",
+            "certificate_hash": "ff237d46b385256107ef454e9c38400c4a35ac7f"
+          }
+        },
+        {
+          "client_id": "416202668150-rddc1rcd4qqanenihg2g02na3kbnlavh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp6BJgiGYIyLLHzYC3ATEnWsrWo6T5wtA"
+        },
+        {
+          "current_key": "AIzaSyAo9S7-4yEOa7dowEgoVYsgijJGTdK7HNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416202668150-rddc1rcd4qqanenihg2g02na3kbnlavh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
